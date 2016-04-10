@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Library.iml" filepath="$PROJECT_DIR$/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryClient/LibraryClient.iml" filepath="$PROJECT_DIR$/LibraryClient/LibraryClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryModel/LibraryModel.iml" filepath="$PROJECT_DIR$/LibraryModel/LibraryModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryNetworking/LibraryNetworking.iml" filepath="$PROJECT_DIR$/LibraryNetworking/LibraryNetworking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryPersistence/LibraryPersistence.iml" filepath="$PROJECT_DIR$/LibraryPersistence/LibraryPersistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryServices/LibraryServices.iml" filepath="$PROJECT_DIR$/LibraryServices/LibraryServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryServicesImpl/LibraryServicesImpl.iml" filepath="$PROJECT_DIR$/LibraryServicesImpl/LibraryServicesImpl.iml" />
+    </modules>
+  </component>
+</project>
