@@ -1,0 +1,7 @@
+//Create dump files
+mysqldump -u root -p --no-create-info library > library.data.sql
+mysqldump -u root -p library --no-data > library.schema.sql
+
+//Restore database from dump files
+mysql -u root -p library < library.schema.sql
+mysql -u root -p library < library.data.sql
